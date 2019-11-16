@@ -1,0 +1,51 @@
+.aaa{
+    background: slateblue;
+    padding: 1em;
+    border-color: slateblue;
+    border-radius: 10px;
+}
+
+h{
+    margin-left: 250px;
+    color: white;
+}
+
+th{
+    width: 5em;
+    background: slateblue;
+    color: white;
+    padding: 2%;
+}
+
+.title{
+    height: 8em;
+}
+
+.abc{
+    background: darkgrey;
+    height: 8em;
+}
+
+table{
+    border: 1px solid darkgrey;
+    width: 15%;
+    float: left;
+    margin: 1%;
+    padding: 0%;
+}
+.img{
+    border: 1px solid black;
+    width: 20%;
+    float: left;
+    margin: 3%;
+    padding: 0%;
+    border-radius: 10px;
+}
+
+.click{
+    background: slateblue;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+    border-radius: 10px;
+}
